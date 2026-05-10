@@ -108,36 +108,36 @@ Reduced coupling between classes for flexibility.
 
 
 📌 Design Patterns Used
-.Observer Pattern:
+Observer Pattern:
 For handling UI events properly.
-.Strategy Pattern:
+Strategy Pattern:
 Used for formatting todo items in a consistent way.
-.Singleton Pattern:
+Singleton Pattern:
 Used in ThemeSwitcher to manage theme in one place.
 
 7.Usage
 ➕ Add a Task
-.Type the task in input box
-.Select date (optional)
-.Press Enter or click "+" button
+Type the task in input box
+Select date (optional)
+Press Enter or click "+" button
 ✏️ Edit a Task
-.Click edit button
-.Update the task
-.Click check button to save
+Click edit button
+Update the task
+Click check button to save
 ✅ Mark Task Completed
-.Click check button to toggle completed/pending status
+Click check button to toggle completed/pending status
 🗑 Delete a Task
-.Click trash icon to delete the task
+Click trash icon to delete the task
 🔍 Filter Tasks
-.Select filter option:
-.All
-.Pending
-.Completed
+Select filter option:
+All
+Pending
+Completed
 ❌ Clear All Tasks
-.Click "Delete All" button to remove all tasks
+Click "Delete All" button to remove all tasks
 🎨 Theme Switch
-.Click palette icon
-.Select any theme
+Click palette icon
+Select any theme
 
 👨‍💻 Author
 Developed by: Ridhima Agarwal
